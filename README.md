@@ -1,4 +1,5 @@
-![Manan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manan2k4)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manan2k4)
+
 
 
 <!-- ## Hi there 👋
