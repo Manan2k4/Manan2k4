@@ -1,4 +1,11 @@
-![Trophies](https://github-profile-trophy.vercel.app/?username=Manan2k4)
+### 👋 Hi there, I'm Manan!
+
+- 🔭 I’m currently working on AI/ML projects
+- 🌱 I’m learning full-stack dev & machine learning
+
+![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=yourusername)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
 
 
 
