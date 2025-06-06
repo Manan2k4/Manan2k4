@@ -1,4 +1,5 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manan2k4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Manan2k4)
+
 
 
 
