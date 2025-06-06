@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Manan!
 
-- 🔭 I’m currently working on AI/ML projects
+- 🔭 I’m currently learning libs used in ML
 - 🌱 I’m learning full-stack dev & machine learning
 
 ![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manan2k4&show_icons=true)
